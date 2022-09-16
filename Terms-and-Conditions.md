@@ -7,7 +7,7 @@ Austria
 
 1. Allgemeines
 1.1. Die nachstehenden Allgemeinen Geschäftsbedingungen gelten für alle Angebote und Verträge der SkinScan LLC mit Kunden in Ergänzung zu den Nutzungsbedingungen der App Stores von Google oder Apple. Davon abweichende Bedingungen des Kunden, insbesondere Allgemeine Geschäftsbedingungen des Kunden, werden nicht Vertragsbestandteil, es sei denn, die SkinScan LLC hat diesen vorab ausdrücklich schriftlich zugestimmt.
-1.2. Die jeweils gültige Fassung dieser AGB kann jederzeit unter dem https://skinscreener.at/agb eingesehen und abgerufen werden.
+1.2. Die jeweils gültige Fassung dieser AGB kann jederzeit unter dem https://github.com/kotschi123/SkinScan/blob/main/Terms-and-Conditions.md eingesehen und abgerufen werden.
 1.3. Diese AGB gelten für Verbraucher im Sinne des Konsumentenschutzgesetzes.
 2. Vertragsgegenstand
 2.1. Gegenstand des Fernabsatzvertrages ist die Lieferung digitaler Inhalte – SkinScan App – zur Unterstützung und Überwachung Ihrer Hautgesundheit, zur Information über weitere Schritte der Hautgesundheitsfürsorge anhand der Risikobewertungen und zu Bewusststeinschaffung für Hautgesundheit.
@@ -35,6 +35,6 @@ Auf Ihre Verträge finden jeweils die AGBs Anwendung, die zu dem Zeitpunkt Ihres
 Die verwendete Software entspricht in technischer und medizinischer Hinsicht dem Stand der Technik und wird von SkinScan LLC laufend evaluiert und verbessert. Die erstellten Bilder werden nur durch die Software der App SkinScan bewertet. Eine Befundung durch einen Facharzt findet nicht statt. Daher kann auch nicht ausgeschlossen werden, dass es zu einer falschen Bewertung der Hautläsionen durch die App kommt. Die SkinScan LLC empfiehlt Nutzern daher, alle Hautläsionen unabhängig der Bewertung durch die App regelmäßig von einem Dermatologen untersuchen zu lassen. Die Nutzung der App ersetzt nicht Untersuchung durch einen Dermatologen.
 Die SkinScan LLC sowie ihre Erfüllungsgehilfen haften nur für Vorsatz und grobe Fahrlässigkeit; dies gilt nicht bei Personenschäden. Die SkinScan LLC haftet sohin nicht für leicht fahrlässig verursachte Sach- und Vermögensschäden. Ferner ist die Haftung – außer bei grober Fahrlässigkeit und Vorsatz – für Mangelfolgeschäden und entgangenen Gewinn ausgeschlossen.
 9. Anwendbares Recht, Gerichtsstand
-9.1. Es gilt österreichisches materielles Recht unter Ausschluss seiner Verweisungsnormen und des UN-Kaufrechts. Für Verbraucher im Sinne des KSchG gelten die gesetzlichen Gerichtsstände.
+9.1. Es gilt amerikanisches materielles Recht unter Ausschluss seiner Verweisungsnormen und des UN-Kaufrechts. Für Verbraucher im Sinne des KSchG gelten die gesetzlichen Gerichtsstände.
 9.2. Für Verbraucher aus einem anderen EU-Mitgliedsstaat gelten die jeweils günstigeren Verbraucherschutzregelungen des jeweiligen EU-Mitgliedstaates sowie die gesetzlichen Gerichtsstände für Verbraucher des jeweiligen EU-Mitgliedsstaates.
 
